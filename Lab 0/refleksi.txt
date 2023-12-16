@@ -1,0 +1,18 @@
+b. Nilai kemampuan programming kamu dari skala 1 (tidak bisa sama sekali) sampai 5
+   (sangat mahir) disertai dengan alasan.
+
+   Aku merasa kalau harus menaruh skill programming dari skala 1-5, aku berada di
+   sekitar 2 out of 5. Aku tahu beberapa struktur dasar coding seperti loop, switch,
+   conditional, dan class. Tapi untuk penerapan dalam infrastruktur website atau server
+   aku belum bisa sama sekali.
+
+c. Ekspektasi dan harapan untuk asisten dosen (asdos) DDP1.
+
+   Tentunya aku berharap kalau asdos dapat membantu aku saat sedang kesulitan mengerjakan
+   tugas. Aku juga berharap kalau asdos dapat membantu aku mengerti konsep pemrograman secara
+   lebih mendalam dan contoh-contoh implementasi programming dalam kehidupan sehari-hari 
+   agar pengetahuan ini tidak sekadar teoritis saja, namun juga dapat aku kembangkan supaya
+   bisa bermanfaat bagi masyarakat.
+   
+   Semoga aku ga terlalu membebani ya sebagai murid, dan tolong diberi tahu kalau aku ada salah
+   ngomong atau salah tingkah ya 🙏

@@ -1,0 +1,35 @@
+﻿Agus;2106751111;DDP-1 
+==============================
+OOP Variabel DataType String Integer Float List Tuple Dictionary Rekursi Kondisi Fungsi Modul Class Metode Operasi Input Output Logika Komentar File Kode Sintaks Global Local Scope Return Rekursi List Tuple Dictionary
+
+Agus;2106751111;Matdis-1
+==============================
+Silogisme Logika Kuantor Predikat Proposisi Universal DeMorgan Konjungsi Disjungsi Implikasi Biconditional Kuantifikasi Peluang Variabel Distribusi Probabilitas Teorema Kuantor Instansiasi Generalisasi
+
+Agus;2106751111;Kalkulus-1
+==============================
+Turunan Integral Limit Fungsi Diferensial Gradien Maksimum Minimum Asimtot Deret Taylor Titik Kritis Titik Belok Trigonometri Maksimum Minimum
+
+Asep;2306771234;DDP-1
+==============================
+Variabel Tipe Data Struktur String Integer Float Boolean Pengulangan Kondisi Fungsi Prosedur Array Pointer Pemrograman Berorientasi Objek Pengkodean Logika Kontrol Versi Algoritma Class Metode Operasi Input Output String Integer Float Boolean
+
+Asep;2306771234;Matdis-1
+==============================
+Logika Kombinatorik Aljabar Boolean Fungsi Keabadian Teori Bilangan Relasi Teori Himpunan Induksi Rekursi Pohon Penyelesaian Masalah Peluang Variabel Distribusi Probabilitas Teori Aljabar Boolean
+
+Asep;2306771234;Kalkulus-1
+==============================
+Limit Turunan Integral Kontinu Titik Stasioner Turunan Parsial Integral Tentu Integral Tak Tentu Aturan Rantai Aturan Produk Aturan Penjumlahan Aturan Pengurangan Epsilon
+
+Fatalis;2306772215;DDP-1
+==============================
+Variabel Konstanta Tipe Data Dasar Struktur Data Pengulangan Iterasi Kondisi Percabangan Fungsi Prosedur Array Matriks Pointer Referensi OOP Implementasi Algoritma Pengkodean Logika Kontrol Error Handling Versi Kontrol Manajemen Kode
+
+Fatalis;2306772215;Matdis-1
+==============================
+Logika Proposisi Kombinatorika Graf Teori Kode Aljabar Boolean Fungsi Keabadian Teori Bilangan Prima Teori Himpunan Relasi Induksi Rekursi Struktur Matematika Diskrit Boolean
+
+Fatalis;2306772215;Kalkulus-1
+==============================
+Limit Tak Hingga Aturan Turunan Turunan Berantai Fungsi Transformasi Kontinuitas Deret Tak Hingga Turunan Parsial Aturan Rantai Aturan Produk Transformasi Laplace Fourier Aturan Limit Aturan Turunan Fungsi Berantai
